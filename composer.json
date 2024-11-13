@@ -3,7 +3,7 @@
     "description": "A SDK available for Lydia App",
     "type": "composer-plugin",
     "require": {
-        "symfony/http-client": "^4.2",
+        "symfony/http-client": "^5.4",
         "php": ">=7.0"
     },
     "license": "MIT",
